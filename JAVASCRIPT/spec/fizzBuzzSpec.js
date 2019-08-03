@@ -19,6 +19,17 @@ describe('FizzBuzz', function() {
     it('Fizzes for 3', function() {
       expect(fizzBuzz.play(3)).toEqual('Fizz');
     });
+    it('Fizzes for 6', function() {
+      expect(fizzBuzz.play(6)).toEqual('Fizz');
+    });
+  });
+  describe('multiples of 5', function() {
+    it('Buzzes for 5', function() {
+      expect(fizzBuzz.play(5)).toEqual('Buzz');
+    });
+    it('Fizzes for 6', function() {
+      expect(fizzBuzz.play(25)).toEqual('Buzz');
+    });
   });
 
 });
