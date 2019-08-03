@@ -1,4 +1,12 @@
-# FizzBuzz_In_Every_Language
+```
+ _______  ___   _______  _______  _______  __   __  _______  _______ 
+|       ||   | |       ||       ||  _    ||  | |  ||       ||       |
+|    ___||   | |____   ||____   || |_|   ||  | |  ||____   ||____   |
+|   |___ |   |  ____|  | ____|  ||       ||  |_|  | ____|  | ____|  |
+|    ___||   | | ______|| ______||  _   | |       || ______|| ______|
+|   |    |   | | |_____ | |_____ | |_|   ||       || |_____ | |_____ 
+|___|    |___| |_______||_______||_______||_______||_______||_______|
+```
 
 This Repo will document my attempt to do FizzBuzz in as many languages as possible.
 
@@ -9,6 +17,7 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 * The aim is not to solve FizzBuzz in a smart or best way - but rather to solve it.
 
 
+## Languages
 
 1. Ruby + RSpec
 2. Javascript + Jasmine
