@@ -6,7 +6,6 @@ describe('FizzBuzz', function() {
     fizzBuzz = new FizzBuzz();
   });
 
-
   describe('multiples of 3 and 5', function() {
     it('Fizzbuzzes for 15', function() {
       expect(fizzBuzz.play(15)).toEqual('FizzBuzz');
@@ -39,6 +38,4 @@ describe('FizzBuzz', function() {
       expect(fizzBuzz.play(2)).toEqual(2);
     });
   });
-
-
 });
