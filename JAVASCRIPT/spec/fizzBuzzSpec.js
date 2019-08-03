@@ -31,5 +31,14 @@ describe('FizzBuzz', function() {
       expect(fizzBuzz.play(25)).toEqual('Buzz');
     });
   });
+  describe('not multiples of 3,5,15', function() {
+    it('return 1', function() {
+      expect(fizzBuzz.play(1)).toEqual(1);
+    });
+    it('returns 2', function() {
+      expect(fizzBuzz.play(2)).toEqual(2);
+    });
+  });
+
 
 });
