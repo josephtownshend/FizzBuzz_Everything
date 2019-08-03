@@ -14,6 +14,9 @@ RSpec.describe FizzBuzz do
       expect(subject.fizzbuzzer(5)).to eq "Buzz"
       expect(subject.fizzbuzzer(10)).to eq "Buzz"
     end
+    it 'can return number if not multiple of 3, 5 or 15' do
+      expect(subject.fizzbuzzer(1)).to eq 1
+      expect(subject.fizzbuzzer(2)).to eq 2
+    end
   end
-
 end

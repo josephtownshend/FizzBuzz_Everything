@@ -1,15 +1,15 @@
 class FizzBuzz
 
-def fizzbuzzer(user_input)
-  if user_input % 15 == 0
-    return "FizzBuzz"
-  elsif user_input % 3 == 0
-    return "Fizz"
-  elsif user_input % 5 == 0
-    return "Buzz"
-
+  def fizzbuzzer(user_input)
+    if user_input % 15 == 0
+      return "FizzBuzz"
+    elsif user_input % 3 == 0
+      return "Fizz"
+    elsif user_input % 5 == 0
+      return "Buzz"
+    else
+      return user_input
+    end
   end
-
-end
 
 end
