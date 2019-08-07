@@ -3,4 +3,7 @@ class FizzBuzz(object):
         self.text = text
 
     def fizzbuzzer(self):
-        return(1)
+        if (self.text % 15) == 0:
+            return("FizzBuzz")
+        else:
+            return(self.text)
