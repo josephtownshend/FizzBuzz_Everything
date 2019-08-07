@@ -6,6 +6,8 @@ class FizzBuzz(object):
         if (self.text % 15) == 0:
             return("FizzBuzz")
         elif (self.text % 3) == 0:
-            return("Fizz")   
+            return("Fizz")
+        elif (self.text % 5) == 0:
+            return("Buzz")
         else:
             return(self.text)
