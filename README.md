@@ -21,7 +21,7 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 
 1. Ruby + RSpec - DONE
 2. Javascript + Jasmine - DONE
-3. Python
+3. Python + Unittest - DONE
 4. Java
 5. C#
 
