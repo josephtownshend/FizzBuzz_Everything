@@ -11,4 +11,13 @@ public class FizzBuzzTest {
 
         Assert.assertEquals("1", fizzBuzz.convert(1));
     }
+
+    @Test
+    public void FizzBuzzConverterForMultiplesOfThree() {
+
+        FizzBuzzConverter fizzBuzz = new FizzBuzzConverter();
+
+        Assert.assertEquals("Fizz", fizzBuzz.convert(3));
+    }
+
 }
