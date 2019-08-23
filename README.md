@@ -28,5 +28,6 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 ## Notes
 
 * More esoteric languages!
+ * Are there any esoteric / weird langs that have testing frameworks?
 * Try different solutions.
 
