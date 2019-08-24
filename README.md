@@ -22,8 +22,10 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 2. Javascript + Jasmine - DONE
 3. Python + Unittest - DONE
 4. Java + Junit - DONE
-5. C#
-6. Swift
+5. Go
+6. Scala
+7. C#
+8. Swift
 
 
 ## Notes
