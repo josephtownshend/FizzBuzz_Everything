@@ -1,5 +1,5 @@
-class FizzBuzzConverter {
-  object Hello extends App {
-    println("Hello, World!")
+
+  object FizzBuzzConverter extends App {
+    println("FizzBuzz")
   }
-}
+
