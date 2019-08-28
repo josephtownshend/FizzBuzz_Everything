@@ -641,13 +641,13 @@
 [0m[[0m[0mdebug[0m] [0m[0m	resolved ivy file produced in cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m:: downloading artifacts ::[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.13.0!scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalactic#scalactic_2.13;3.0.8!scalactic_2.13.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalatest#scalatest_2.13;3.0.8!scalatest_2.13.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.13.0!scala-reflect.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalactic#scalactic_2.13;3.0.8!scalactic_2.13.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.0!scala-compiler.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.6!jline.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.13;1.2.0!scala-xml_2.13.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 76ms :: artifacts dl 2ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.6!jline.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.0!scala-compiler.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 75ms :: artifacts dl 3ms[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.example#scalatest-example_2.13;0.1.0-SNAPSHOT compile produced in /Users/josephtownshend/projects/MAKERS/FIZZBUZZ/SCALA/fizzbuzzscala/target/scala-2.13/resolution-cache/reports/com.example-scalatest-example_2.13-compile.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.example#scalatest-example_2.13;0.1.0-SNAPSHOT runtime produced in /Users/josephtownshend/projects/MAKERS/FIZZBUZZ/SCALA/fizzbuzzscala/target/scala-2.13/resolution-cache/reports/com.example-scalatest-example_2.13-runtime.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.example#scalatest-example_2.13;0.1.0-SNAPSHOT test produced in /Users/josephtownshend/projects/MAKERS/FIZZBUZZ/SCALA/fizzbuzzscala/target/scala-2.13/resolution-cache/reports/com.example-scalatest-example_2.13-test.xml[0m
@@ -659,5 +659,5 @@
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.example#scalatest-example_2.13;0.1.0-SNAPSHOT plugin produced in /Users/josephtownshend/projects/MAKERS/FIZZBUZZ/SCALA/fizzbuzzscala/target/scala-2.13/resolution-cache/reports/com.example-scalatest-example_2.13-plugin.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.example#scalatest-example_2.13;0.1.0-SNAPSHOT pom produced in /Users/josephtownshend/projects/MAKERS/FIZZBUZZ/SCALA/fizzbuzzscala/target/scala-2.13/resolution-cache/reports/com.example-scalatest-example_2.13-pom.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.example#scalatest-example_2.13;0.1.0-SNAPSHOT scala-tool produced in /Users/josephtownshend/projects/MAKERS/FIZZBUZZ/SCALA/fizzbuzzscala/target/scala-2.13/resolution-cache/reports/com.example-scalatest-example_2.13-scala-tool.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	resolve done (76ms resolve - 2ms download)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resolve done (75ms resolve - 3ms download)[0m
 [0m[[0m[0minfo[0m] [0m[0mDone updating.[0m

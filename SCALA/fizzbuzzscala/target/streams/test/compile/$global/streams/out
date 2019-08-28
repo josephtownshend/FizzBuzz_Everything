@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/josephtownshend/projects/MAKERS/FIZZBUZZ/SCALA/fizzbuzzscala/src/test/scala/FizzBuzzTest.scala:3:47: unclosed string literal[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(FizzBuzz.FizzBuzzConverter(3) === ("FizzBuzz)[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/josephtownshend/projects/MAKERS/FIZZBUZZ/SCALA/fizzbuzzscala/src/test/scala/FizzBuzzTest.scala:4:3: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
