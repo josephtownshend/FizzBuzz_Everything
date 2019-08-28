@@ -2,3 +2,5 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- Returns FizzBuzz when multiple of 15[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- Returns Buzz when multiple of 5[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- Returns Fizz when multiple of 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Returns num when not multiple of 3, 5 or 15 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "Fizz" did not equal 1 (FizzBuzzTest.scala:12)[0m[0m
