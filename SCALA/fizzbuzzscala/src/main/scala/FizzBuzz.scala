@@ -1,5 +1,6 @@
 object FizzBuzz extends App {
   def FizzBuzzConverter(x: Int) = {
-    "FizzBuzz"
+    if(x % 15 == 0)
+      "FizzBuzz"  
   }
 }

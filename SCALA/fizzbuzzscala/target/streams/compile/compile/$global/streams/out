@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/josephtownshend/projects/MAKERS/FIZZBUZZ/SCALA/fizzbuzzscala/src/main/scala/FizzBuzz.scala:4:7: method FizzBuzzConverter has return statement; needs result type[0m
+[0m[[0m[31merror[0m] [0m[0m      return "FizzBuzz"[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
