@@ -22,7 +22,7 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 2. Javascript + Jasmine - DONE
 3. Python + Unittest - DONE
 4. Java + Junit - DONE
-5. Scala + ScalaTest + Funsuite - DONE
+5. Scala + ScalaTest + FunSuite - DONE
 6. Go
 7. C#
 8. Swift
