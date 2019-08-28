@@ -4,5 +4,7 @@ object FizzBuzz extends App {
       "FizzBuzz"
     else if(x % 5 == 0)
       "Buzz"
+    else if(x % 3 == 0)
+      "Fizz"    
   }
 }
