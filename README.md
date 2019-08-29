@@ -12,17 +12,17 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 
 ## Rules
 
-* Every language must be tested and Test Driven.
-* The aim is not to solve FizzBuzz in a smart - but rather to solve it.
+* Every language **MUST** be tested and Test Driven.
+* The aim is not to solve FizzBuzz in a smart way - but rather to solve it.
 
 
 ## Languages
 
-1. Ruby + RSpec - DONE
-2. Javascript + Jasmine - DONE
-3. Python + Unittest - DONE
-4. Java + Junit - DONE
-5. Scala + ScalaTest + FunSuite - DONE
+1. Ruby & RSpec - DONE
+2. Javascript & Jasmine - DONE
+3. Python & Unittest - DONE
+4. Java & Junit - DONE
+5. Scala & ScalaTest + FunSuite - DONE
 6. Go
 7. C#
 8. Swift
@@ -30,7 +30,7 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 
 ## Notes
 
-* More esoteric languages!
+* Esoteric languages
   * Are there any esoteric / weird langs that have testing frameworks?
 * Try different solutions.
   * Extend previous solutions to loop through 1..100
