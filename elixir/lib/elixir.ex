@@ -1,6 +1,6 @@
-defmodule Fizzbuzz do
+defmodule Elixir do
   @moduledoc """
-  Documentation for Fizzbuzz.
+  Documentation for Elixir.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule Fizzbuzz do
 
   ## Examples
 
-      iex> Fizzbuzz.hello()
+      iex> Elixir.hello()
       :world
 
   """
