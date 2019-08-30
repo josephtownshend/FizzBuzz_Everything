@@ -1,7 +1,10 @@
 defmodule Fizzbuzz do
   def fizzbuzzer(user_input) do
-    if rem(user_input,15) == 0 do
-      "FizzBuzz"
+    cond do
+      rem(user_input,3) == 0 && rem(user_input,5) == 0 ->
+        "FizzBuzz"
+      rem(user_input,3) ->
+        "Fizz"
     end
   end
 end
