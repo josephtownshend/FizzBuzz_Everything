@@ -1,5 +1,5 @@
 defmodule Fizzbuzz do
-  def hello do
+  def fizzbuzzer(user_input) do
     "FizzBuzz"
   end
 end

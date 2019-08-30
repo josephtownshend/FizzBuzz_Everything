@@ -2,7 +2,7 @@ defmodule FizzbuzzTest do
   use ExUnit.Case
   doctest Fizzbuzz
 
-  test "greets the world" do
-    assert Fizzbuzz.hello() == "FizzBuzz"
+  test "Returns FizzBuzz" do
+    assert Fizzbuzz.fizzbuzzer(15) == "FizzBuzz"
   end
 end
