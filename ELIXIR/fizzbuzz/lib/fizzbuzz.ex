@@ -3,8 +3,10 @@ defmodule Fizzbuzz do
     cond do
       rem(user_input,3) == 0 && rem(user_input,5) == 0 ->
         "FizzBuzz"
-      rem(user_input,3) ->
+      rem(user_input,3) == 0 ->
         "Fizz"
+      rem(user_input,5) == 0 ->
+        "Buzz"
     end
   end
 end

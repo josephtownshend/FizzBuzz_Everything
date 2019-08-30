@@ -9,4 +9,8 @@ defmodule FizzbuzzTest do
   test "Returns Fizz when multiple of 3" do
     assert Fizzbuzz.fizzbuzzer(3) == "Fizz"
   end
+
+  test "Returns Buzz when multiple of 5" do
+    assert Fizzbuzz.fizzbuzzer(5) == "Buzz"
+  end
 end
