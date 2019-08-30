@@ -7,6 +7,8 @@ defmodule Fizzbuzz do
         "Fizz"
       rem(user_input,5) == 0 ->
         "Buzz"
+      user_input ->
+        user_input
     end
   end
 end
