@@ -23,7 +23,7 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 3. Python & Unittest - DONE
 4. Java & Junit - DONE
 5. Scala & ScalaTest + FunSuite - DONE
-6. Elixir & ? - WIP
+6. Elixir & ExUnit + mix - WIP
 
 
 Up next! Go, C#, Swift, Clojure, Groovy
@@ -35,4 +35,3 @@ Up next! Go, C#, Swift, Clojure, Groovy
   * Are there any esoteric / weird langs that have testing frameworks?
 * Try different solutions.
   * Extend previous solutions to loop through 1..100
-
