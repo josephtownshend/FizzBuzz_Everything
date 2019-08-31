@@ -13,4 +13,7 @@
 
   (testing "fizzbuzz with numbers that return 'Buzz'"
     (is (= "Buzz" (fizzbuzz 5)))
-    (is (= "Buzz" (fizzbuzz 10)))))
+    (is (= "Buzz" (fizzbuzz 10))))
+
+  (testing "fizzbuzz with numbers that return 'FizzBuzz'"
+    (is (= "FizzBuzz" (fizzbuzz 15)))))
