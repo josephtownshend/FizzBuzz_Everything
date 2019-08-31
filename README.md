@@ -18,13 +18,13 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 
 ## Languages
 
-1. Ruby & RSpec - DONE
-2. Javascript & Jasmine - DONE
-3. Python & Unittest - DONE
-4. Java & Junit - DONE
-5. Scala & ScalaTest + FunSuite - DONE
-6. Elixir & ExUnit + mix - DONE
-7. Clojure & clojure.test - DONE
+1. **Ruby & RSpec** - DONE
+2. **Javascript & Jasmine** - DONE
+3. **Python & Unittest** - DONE
+4. **Java & Junit** - DONE
+5. **Scala & ScalaTest + FunSuite** - DONE
+6. **Elixir & ExUnit + mix** - DONE
+7. **Clojure & clojure.test** - DONE
 
 
 Up next! Go, C#, Swift, Groovy
