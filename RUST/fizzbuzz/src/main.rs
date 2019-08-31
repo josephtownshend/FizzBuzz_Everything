@@ -1,8 +1,12 @@
 pub fn fizzbuzz(x: usize) -> String {
-    if x == 3 {
+    if x %3 == 0 {
         return String::from("Fizz");
-    } else {
-    return x.to_string();
+    }
+    else if x %5 == 0 {
+            return String::from("Buzz");
+    }
+    else {
+        return x.to_string();
     }
 }
 
@@ -23,6 +27,16 @@ mod tests {
     #[test]
     fn test_fizzbuzz_3() {
         assert_eq!(fizzbuzz(3), "Fizz");
+    }
+
+    #[test]
+    fn test_fizzbuzz_4() {
+        assert_eq!(fizzbuzz(6), "Fizz");
+    }
+
+    #[test]
+    fn test_fizzbuzz_5() {
+        assert_eq!(fizzbuzz(5), "Buzz");
     }
 
 }
