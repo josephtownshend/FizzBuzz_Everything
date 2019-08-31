@@ -23,7 +23,7 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 3. Python & Unittest - DONE
 4. Java & Junit - DONE
 5. Scala & ScalaTest + FunSuite - DONE
-6. Elixir & ExUnit + mix - WIP
+6. Elixir & ExUnit + mix - DONE
 
 
 Up next! Go, C#, Swift, Clojure, Groovy
