@@ -27,6 +27,6 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 7. **Clojure & clojure.test** - DONE
 
 
-Up next! Go, C#, Swift, Groovy
+Up next! Go, C#, Swift, Groovy, Rust, Kotlin
 
 
