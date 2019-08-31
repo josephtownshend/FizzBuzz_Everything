@@ -8,7 +8,7 @@
 |___|    |___| |_______||_______||_______||_______||_______||_______| |_|
 ```
 
-This Repo will document my attempt to do FizzBuzz in as many languages as possible.
+*FizzBuzz Everything* is an exploration of language, a study of nuance and idiosyncrasy through the medium of FizzBuzz.
 
 ## Rules
 
