@@ -28,6 +28,6 @@
 8. **Rust & Rust** - DONE
 
 
-Up next! Go, C#, Swift, Groovy, Rust, Kotlin
+Up next! Go, C#, Swift, Groovy, Kotlin
 
 
