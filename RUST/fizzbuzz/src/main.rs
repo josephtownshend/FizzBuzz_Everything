@@ -52,4 +52,9 @@ mod tests {
         assert_eq!(fizzbuzz(15), "FizzBuzz");
     }
 
+    #[test]
+    fn test_fizzbuzz_8() {
+        assert_eq!(fizzbuzz(30), "FizzBuzz");
+    }
+
 }
