@@ -25,6 +25,7 @@ This Repo will document my attempt to do FizzBuzz in as many languages as possib
 5. **Scala & ScalaTest + FunSuite** - DONE
 6. **Elixir & ExUnit + mix** - DONE
 7. **Clojure & clojure.test** - DONE
+8. **Rust & Rust** - WIP
 
 
 Up next! Go, C#, Swift, Groovy, Rust, Kotlin
