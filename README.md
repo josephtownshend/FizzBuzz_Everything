@@ -8,7 +8,7 @@
 |___|    |___| |_______||_______||_______||_______||_______||_______| |_|
 ```
 
-*FizzBuzz Everything* is an exploration of language, a study of nuance and idiosyncrasy through the medium of FizzBuzz.
+So what is the point of this? Good question. *FizzBuzz_Everything* is an exploration of language, a study of nuance and an idiosyncratic investigation of programming through the medium of FizzBuzz.
 
 ## Rules
 
