@@ -1,5 +1,8 @@
 pub fn fizzbuzz(x: usize) -> String {
-    if x %3 == 0 {
+    if x %15 == 0 {
+        return String::from("FizzBuzz");
+    }
+    else if x %3 == 0 {
         return String::from("Fizz");
     }
     else if x %5 == 0 {
@@ -42,6 +45,11 @@ mod tests {
     #[test]
     fn test_fizzbuzz_6() {
         assert_eq!(fizzbuzz(10), "Buzz");
+    }
+
+    #[test]
+    fn test_fizzbuzz_7() {
+        assert_eq!(fizzbuzz(15), "FizzBuzz");
     }
 
 }
