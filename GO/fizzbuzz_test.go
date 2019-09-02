@@ -12,4 +12,7 @@ func TestFizzBuzz(t *testing.T) {
 	if FizzBuzz(15) != "FizzBuzz" {
 		t.Error("Expected to return 'FizzBuzz'")
 	}
+	if FizzBuzz(1) != "1" {
+		t.Error("Expected to return 'FizzBuzz'")
+	}
 }
