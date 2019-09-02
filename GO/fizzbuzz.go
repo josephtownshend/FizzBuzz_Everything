@@ -1,16 +1,13 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
-func Fizzbuzz(x int) (result int) {
-	result = x + 2
-	return result
-}
+func FizzBuzz(n int) string {
+	fizz := (n%3 == 0)
 
-func main() {
-	fmt.Println("FIZZBUZZ!")
-	result := Fizzbuzz(2)
-	fmt.Println(result)
+		if fizz {
+		return "Fizz"
+	} else {
+		return fmt.Sprintf("%d", n)
+	}
 }
