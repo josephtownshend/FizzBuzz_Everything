@@ -25,9 +25,10 @@ So what is the point of this? Good question. *FizzBuzz_Everything* is an explora
 5. **Scala & ScalaTest + FunSuite** - DONE
 6. **Elixir & ExUnit + mix** - DONE
 7. **Clojure & clojure.test** - DONE
-8. **Rust & Rust** - DONE
+8. **Rust** - DONE
+9. **Go** - WIP
 
 
-Up next! Go, C#, Swift, Groovy, Kotlin
+Up next! C#, Swift, Groovy, Kotlin
 
 
