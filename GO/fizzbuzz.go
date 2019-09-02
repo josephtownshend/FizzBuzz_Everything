@@ -6,7 +6,9 @@ func FizzBuzz(n int) string {
 	fizz := (n%3 == 0)
 	buzz := (n%5 == 0)
 
-		if fizz {
+	if fizz && buzz {
+			return "FizzBuzz"
+	} else if fizz {
 			return "Fizz"
 	} else if buzz {
 			return "Buzz"
