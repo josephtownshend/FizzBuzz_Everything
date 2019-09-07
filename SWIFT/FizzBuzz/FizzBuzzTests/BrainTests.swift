@@ -7,3 +7,8 @@ func testIsDivisibleByThree() {
     XCTAssertEqual(result, true)
 }
 
+func testIsNotDivisibleByThree() {
+    let brain = Brain()
+    let result = brain.isDivisibleByThree(number: 1)
+    XCTAssertEqual(result, false)
+}
