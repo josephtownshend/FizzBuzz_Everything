@@ -1,3 +1,5 @@
-fun main() {
-    println("FizzBuzz")
+project fizzbuzz
+
+fun fizzbuzz():String {
+    return“Hello, world!”
 }
