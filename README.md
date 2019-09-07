@@ -26,7 +26,7 @@ So what is the point of this? Good question. *FizzBuzz_Everything* is an explora
 6. **Elixir & ExUnit + mix** - DONE
 7. **Clojure & clojure.test** - DONE
 8. **Rust** - DONE
-9. **Go** - WIP
+9. **Go** - DONE
 
 
 Up next! C#, Swift, Groovy, Kotlin
