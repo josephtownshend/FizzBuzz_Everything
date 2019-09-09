@@ -36,3 +36,13 @@ func testSayFizz() {
     let result = brain.check(number: 3)
     XCTAssertEqual(result, "Fizz")
 }
+
+func testSayBuzz() {
+    let result = brain.check(number: 15)
+    XCTAssertEqual(result, "Buzz")
+}
+
+func testSayFizzBuzz() {
+    let result = brain.check(number: 15)
+    XCTAssertEqual(result, "FizzBuzz")
+}
