@@ -34,5 +34,5 @@ func testIsNotDivisibleByFifteen() {
 
 func testSayFizz() {
     let result = brain.check(number: 3)
-    XCTAssertEqual(result, “Fizz”)
+    XCTAssertEqual(result, "Fizz")
 }
