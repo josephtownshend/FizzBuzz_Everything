@@ -9,6 +9,9 @@ class Brain {
     func isDivisibleByFive(number: Int) -> Bool {
         return isDivisibleBy(divisor: 5, number: number)
     }
+    func isDivisibleByFifteen(number: Int) -> Bool {
+        return isDivisibleBy(divisor: 15, number: number)
+    }
 }
 
 
