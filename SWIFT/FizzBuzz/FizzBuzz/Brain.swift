@@ -1,5 +1,6 @@
 class Brain {
     
+    
     func isDivisibleBy(divisor: Int, number: Int) -> Bool {
         return number % divisor == 0
     }
@@ -11,6 +12,9 @@ class Brain {
     }
     func isDivisibleByFifteen(number: Int) -> Bool {
         return isDivisibleBy(divisor: 15, number: number)
+    }
+    func check(number: Int) -> String {
+        return "Fizz"
     }
 }
 
