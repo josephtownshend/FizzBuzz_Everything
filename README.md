@@ -13,8 +13,6 @@ So what is the point of this? Good question. *FizzBuzz_Everything* is an explora
 ## Rules
 
 * Every language **MUST** be tested and Test Driven.
-* The aim is not to solve FizzBuzz in a smart way - but rather to solve it.
-
 
 ## Languages
 
