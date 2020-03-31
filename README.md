@@ -16,13 +16,13 @@ So what is the point of this? Good question. *FizzBuzz_Everything* is an explora
 
 ## Languages
 
-1. **Ruby & RSpec** - DONE
-2. **Javascript & Jasmine** - DONE
-3. **Python & Unittest** - DONE
-4. **Java & Junit** - DONE
-5. **Scala & ScalaTest + FunSuite** - DONE
-6. **Elixir & ExUnit + mix** - DONE
-7. **Clojure & clojure.test** - DONE
-8. **Rust** - DONE
-9. **Go** - DONE
-10. **Swift & XCTest** - DONE
+1. **Ruby & RSpec** - :heavy_check_mark:
+2. **Javascript & Jasmine** - :heavy_check_mark:
+3. **Python & Unittest** - :heavy_check_mark:
+4. **Java & Junit** - :heavy_check_mark:
+5. **Scala & ScalaTest + FunSuite** - :heavy_check_mark:
+6. **Elixir & ExUnit + mix** - :heavy_check_mark:
+7. **Clojure & clojure.test** - :heavy_check_mark:
+8. **Rust** - :heavy_check_mark:
+9. **Go** - :heavy_check_mark:
+10. **Swift & XCTest** - :heavy_check_mark:
