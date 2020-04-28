@@ -26,3 +26,4 @@ So what is the point of this? Good question. *FizzBuzz_Everything* is an explora
 8. **Rust** - :heavy_check_mark:
 9. **Go** - :heavy_check_mark:
 10. **Swift & XCTest** - :heavy_check_mark:
+11. **Groovy** - :soon:
