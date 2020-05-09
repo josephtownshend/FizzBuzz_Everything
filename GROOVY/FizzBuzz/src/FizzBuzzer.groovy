@@ -2,7 +2,9 @@
 class FizzBuzzer {
 
   def static fizzBuzz(input) {
-    return "Fizz"
+    if (input % 3 == 0) {
+      return "Fizz"
+    }
 
   }
 }
