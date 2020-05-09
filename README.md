@@ -24,6 +24,6 @@ So what is the point of this? Good question. *FizzBuzz_Everything* is an explora
 6. **Elixir & ExUnit + mix** - :heavy_check_mark:
 7. **Clojure & clojure.test** - :heavy_check_mark:
 8. **Rust** - :heavy_check_mark:
-9. **Go** - :heavy_check_mark:
+9. **Go & Junit** - :heavy_check_mark:
 10. **Swift & XCTest** - :heavy_check_mark:
 11. **Groovy** - :heavy_check_mark:
