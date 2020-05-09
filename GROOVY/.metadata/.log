@@ -26,3 +26,12 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.oomph.setup.ui 1 0 2020-05-09 15:22:07.192
 !MESSAGE Setup tasks were performed during startup updating 242 preferences. See 'C:\DeveloperTools\alfa-eclipse-2018-12\eclipse\configuration\org.eclipse.oomph.setup\setup.log' for details
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2020-05-09 15:23:27.772
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2020-05-09 15:23:27.783
+!MESSAGE IvyDE plugin started
+
+!ENTRY org.eclipse.jface.text 2 0 2020-05-09 15:25:25.939
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
