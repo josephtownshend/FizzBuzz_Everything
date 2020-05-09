@@ -18,5 +18,10 @@ class TestFizzBuzz extends GroovyTestCase {
     assert "FizzBuzz" == FizzBuzzer.fizzBuzz(15);
   }
 
+  @Test
+  void testNumber() {
+    assert 2 == FizzBuzzer.fizzBuzz(2);
+  }
+
 }
 
