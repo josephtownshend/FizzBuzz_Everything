@@ -1,7 +1,7 @@
 
 class FizzBuzzer {
 
-  def fizzBuzz(input) {
+  def static fizzBuzz(input) {
     return "Fizz"
 
   }
