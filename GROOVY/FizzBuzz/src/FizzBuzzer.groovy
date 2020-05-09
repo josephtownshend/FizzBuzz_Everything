@@ -5,7 +5,6 @@ class FizzBuzzer {
     if (input % 3 == 0) {
       return "Fizz"
     }
-
   }
-}
 
+}
