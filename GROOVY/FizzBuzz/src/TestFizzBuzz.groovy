@@ -1,11 +1,19 @@
-
+import org.junit.Before
 import org.junit.jupiter.api.Test
 
-class TestFizzBuzz {
+class TestFizzBuzz extends GroovyTestCase {
+
+  FizzBuzzer fb
+
+  @Before
+  void setUp() {
+      fb = new FizzBuzzer()
+  }
 
   @Test
-  void test() {
-    Assert.assertEquals("Fizz", FizzBuzzer.fizzBuzz(3));
+  void testFizz() {
+    assert "Fizz" == fb.fizzBuzz(3);
+
   }
 
 }
