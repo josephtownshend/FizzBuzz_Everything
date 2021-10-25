@@ -1,6 +1,6 @@
 # fizzbuzz
 
-TODO: Write a description here
+Lots of help from https://hclarsenblog.wordpress.com/2018/01/27/tdd-in-crystal-with-minitest-cr/
 
 ## Installation
 
