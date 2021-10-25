@@ -1,6 +1,4 @@
-
-
-module LearningMinitest
+module FizzBuzzModule
   class Fizzbuzz
 
     def fizzbuzzer(num)
@@ -15,5 +13,5 @@ module LearningMinitest
       end
     end
   end
-
+  
 end

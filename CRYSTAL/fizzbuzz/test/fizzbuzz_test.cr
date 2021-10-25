@@ -1,10 +1,9 @@
 require "minitest/autorun"
-
 require "/../src/fizzbuzz.cr"
 
 class LearningTest < Minitest::Test
   def fizzbuzz
-    @fizzbuzz ||= LearningMinitest::Fizzbuzz.new
+    @fizzbuzz ||= FizzBuzzModule::Fizzbuzz.new
   end
 
   def test_fizzbuzz_multiples_of_3
