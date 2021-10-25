@@ -16,6 +16,13 @@ class LearningTest < Minitest::Test
 
   def test_fizzbuzz_multiples_of_5
     assert_equal "Buzz", fizzbuzz.fizzbuzzer(5)
+    assert_equal "Buzz", fizzbuzz.fizzbuzzer(10)
+    assert_equal "Buzz", fizzbuzz.fizzbuzzer(5005)
+    assert_equal "Buzz", fizzbuzz.fizzbuzzer(725)
+  end
+
+  def test_fizzbuzz_multiples_of_3_and_5
+    assert_equal "Buzz", fizzbuzz.fizzbuzzer(15)
   end
 
 end
