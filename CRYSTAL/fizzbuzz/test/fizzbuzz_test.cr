@@ -8,7 +8,7 @@ class LearningTest < Minitest::Test
   end
 
   def test_fizzbuzz
-    assert_equal "Fizz", fizzbuzz.fizzbuzzer
+    assert_equal "Fizz", fizzbuzz.fizzbuzzer(3)
   end
 
 end
