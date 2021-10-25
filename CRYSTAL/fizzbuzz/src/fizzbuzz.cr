@@ -10,6 +10,8 @@ module LearningMinitest
         "Fizz"
       elsif (num % 5 == 0)
         "Buzz"
+      else
+        num
       end
     end
   end

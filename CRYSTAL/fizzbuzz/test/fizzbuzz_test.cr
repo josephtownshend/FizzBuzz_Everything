@@ -27,4 +27,10 @@ class LearningTest < Minitest::Test
     assert_equal "FizzBuzz", fizzbuzz.fizzbuzzer(75)
   end
 
+  def test_fizzbuzz_when_not_multiple
+    assert_equal 4, fizzbuzz.fizzbuzzer(4)
+    assert_equal 11, fizzbuzz.fizzbuzzer(11)
+    assert_equal 17, fizzbuzz.fizzbuzzer(17)
+  end
+
 end
