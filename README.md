@@ -27,6 +27,4 @@ So what is the point of this? Good question. *FizzBuzz_Everything* is an explora
 9. **Go** - :heavy_check_mark:
 10. **Swift & XCTest** - :heavy_check_mark:
 11. **Groovy & Junit** - :heavy_check_mark:
-
-## ToDo
-* Kotlin - :soon:
+12. **Crystal & Minitest** - :heavy_check_mark:
