@@ -1,0 +1,13 @@
+name: fizzbuzz
+version: 0.1.0
+
+authors:
+  - joseph townshend <joetownshend@mac.com>
+
+crystal: 1.2.1
+development_dependencies:
+   minitest:
+     github: ysbaddaden/minitest.cr
+     version: "1.0.1"
+
+license: MIT
